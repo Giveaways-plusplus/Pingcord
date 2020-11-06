@@ -213,5 +213,5 @@ electron.app.on("ready", () => {
 		callback(details);
 	});
 
-	win.loadURL("https://discord.com/channels/@me/");
+	win.loadURL("https://canary.discord.com/channels/@me/");
 });

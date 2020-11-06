@@ -17,7 +17,7 @@ electron.app.on("ready", () => {
 	const tray_icon = new electron.Tray("assets/icon.png");
 	const context_menu = electron.Menu.buildFromTemplate([
 		{
-			label: "Open Discord", enabled: false
+			label: "Pingcord", enabled: false
 		},
 		{
 			label: "Show Window", click: () => win.show()
@@ -32,7 +32,7 @@ electron.app.on("ready", () => {
 			}
 		},
 	]);
-	tray_icon.setToolTip("OpenDiscord");
+	tray_icon.setToolTip("Pingcord");
 	tray_icon.on("click", (event, bounds, position) => win.show());
 	tray_icon.setContextMenu(context_menu);
 

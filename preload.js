@@ -12,14 +12,14 @@ function customActivity() {
 
 	const default_activity = {
 		"type": 0,
-		"name": "with OpenDiscord",
-		"details": "Visit git.io/JJn7D",
-		"state": "or go to github.com/505e06b2/OpenDiscord",
-		"application_id": "734267150486732828",
+		"name": "with Pingcord",
+		"details": "Visit git.io/Pingcord",
+		"state": "v0.0.1",
+		"application_id": "634126243012542484",
 		"assets": {
-			"large_image": "734267782513950740",
-			"small_image": "734267811953639465",
-			"small_text": "Get it on GitHub!"
+			"large_image": "ping",
+			"small_image": "null",
+			"small_text": "null"
 		}
 	}
 

@@ -2,3 +2,6 @@
 Your local discord client
 
 # Instalation
+```
+git clone https://github.com/Pingcord/Pingcord.git
+```

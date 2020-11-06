@@ -1,5 +1,6 @@
 {
-	"name": "OpenDiscord",
+	"name": "Pingcord",
+	"publishConfig": { "registry": "https://npm.pkg.github.com/" },
 	"version": "0.0.1",
 	"main": "index.js",
 	"scripts": {

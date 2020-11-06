@@ -5,3 +5,5 @@ Your local discord client
 ```
 git clone https://github.com/Pingcord/Pingcord.git
 ```
+Open ```Installer.bat```
+Then open ```Pingcord Starter```
